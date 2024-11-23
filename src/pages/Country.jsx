@@ -4,7 +4,7 @@ export const Country = () => {
   return (
     <Section>
       <Container>
-        <Heading title="SearchCountry" bottom />
+        <Heading title="CountryDetails" bottom />
       </Container>
     </Section>
   );
